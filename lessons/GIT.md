@@ -246,4 +246,3 @@ Certamente! Ecco alcuni comandi Git comuni che vengono utilizzati durante lo svi
 12. **git remote -v**: Mostra gli URL dei repository remoti associati al tuo repository locale.g
 
 Questi sono solo alcuni dei comandi più comuni in Git. Ci sono molti altri comandi e opzioni disponibili per gestire efficacemente il tuo flusso di lavoro di sviluppo con Git.
-Nota nuova
